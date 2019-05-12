@@ -25,5 +25,5 @@ class Monitoria
       end
     end
     return false # CPF inválido
-  end 
+  end
 end
